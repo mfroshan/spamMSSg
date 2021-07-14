@@ -3,8 +3,7 @@ from time import sleep
 
 
 def spam(msg,maxMsg):
-    # 0TODO set x,y where your whatsapp web msg box is
-    # or the input is not foucused and your jus spaming stuff to the prompt
+  
 
     pyautogui.click(x=100, y=200)
 
